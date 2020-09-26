@@ -1,6 +1,4 @@
-# Code sketches
-
-## P5js 
+# Code Sketches 
 
 August: [Myths](https://lauragarrison87.github.io/sketches/myths)
 
