@@ -1,5 +1,7 @@
 # Code sketches
 
-August: [Myths](./myths/index.html)
+## P5js 
 
-September: [Symmetry](./symmetry/index.html)
+August: [Myths](https://lauragarrison87.github.io/sketches/myths)
+
+September: [Symmetry](https://lauragarrison87.github.io/sketches/symmetry)
