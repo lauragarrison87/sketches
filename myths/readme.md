@@ -1,7 +1,7 @@
 # Myths 
 *August 2020*
 
-*View the finished project [here](https://lauragarrison87.github.io/myths/)*
+*View the finished project [here](https://lauragarrison87.github.io/sketches/myths/)*
 
 Part of creative coding project series that will hopefully keep up on a monthly basis. The inspiration for this prompt was from my recent discovery of an amazing storytelling podcast, [Mythos](https://www.mythospodcast.com/), and the film Brave.
 
